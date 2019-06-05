@@ -18,3 +18,6 @@ After the past item, run
 react-native run-android
 ```
 ## DONT FORGET TO OPEN ANDROID OR IOS VIRTUAL DEVICE
+
+#ScreenShot
+![alt text](https://i.ibb.co/8PPz5Sj/Screenshot-1559707184.png)
