@@ -1,7 +1,7 @@
 # upvotes-client
 
 ```bash
-Download unsigned apk from https://drive.google.com/file/d/1Aiv1dOQmVFgFsgolZhc3ALWN7wLL2AHO/view?usp=sharing
+Download unsigned apk from https://drive.google.com/drive/folders/1G5Aq7ZzXHxx8CSIwXOefHFNbq_AuszhY
 ```
 Enable device to install unknown apps (try this video https://www.youtube.com/watch?v=jIDxpPmIGco)
 
