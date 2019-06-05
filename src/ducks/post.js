@@ -45,7 +45,7 @@ export const Creators = {
                 author: getState().AppReducer.device_id
             }
         ).then(res => {
-            DropDownHolder.show('success', 'Sucesso!', 'Post adicionado com sucesso')
+            DropDownHolder.show('success', 'Sucesso', 'Post adicionado com sucesso!')
             dispatch(Creators.getPosts())
         })
     },
